@@ -200,7 +200,7 @@ body {
 .seccion3 img {
     width: 750px;
     animation: pulse;
-    animation-duration: 6s;
+    animation-duration: 7s;
 
 }
 
@@ -273,7 +273,7 @@ body {
 .seccion5 iframe {
     width: 85%;
     height: 160%;
-    margin-bottom: 30px;
+    margin-bottom: 31px;
     border-radius: 20px;
 
 }
